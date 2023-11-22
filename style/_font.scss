@@ -1,0 +1,61 @@
+/*400*/
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  src:
+  url('../../font/Gilroy-Regular.ttf');
+}
+/*500*/
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  src:
+  url('../../font/Gilroy-Medium.ttf');
+}
+/*600*/
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 600;
+  src:
+  url('../../font/Gilroy-SemiBold.ttf');
+}/*700*/
+@font-face {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  src:
+  url('../../font/Gilroy-Bold.ttf');
+}
+@mixin Gilroy70045{
+  font-family: Gilroy;
+  font-size: 45px;
+  font-weight: 700;
+}
+@mixin Gilroy70013{
+  font-family: Gilroy;
+  font-size: 13px;
+  font-weight: 700;
+}
+@mixin Gilroy70024{
+  font-family: Gilroy;
+  font-size: 24px;
+  font-weight: 700;
+}
+@mixin Gilroy70011{
+  font-family: Gilroy;
+  font-size: 11px;
+  font-weight: 700;
+}
+@mixin Gilroy40016{
+  font-family: Gilroy;
+  font-size: 16px;
+  font-weight: 400;
+}
+@mixin Gilroy40015{
+  font-family: Gilroy;
+  font-size: 15px;
+  font-weight: 400;
+}
